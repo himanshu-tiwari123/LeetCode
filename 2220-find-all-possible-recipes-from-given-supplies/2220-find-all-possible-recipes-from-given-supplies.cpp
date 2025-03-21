@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(0);
+        cout.tie(0);
         int n = ingredients.size();
 
         vector<string>ans;
@@ -19,8 +22,9 @@ public:
         while((int)(st.size()) > lastSize){
           lastSize = st.size();
           int queueSize = q.size();
+          cout<<lastSize<<" "<<queueSize<<"\n";
 
-           while(queueSize-- > 0){
+           while(queueSize-- >0){
             
             int currIndex =q.front();
             q.pop();
