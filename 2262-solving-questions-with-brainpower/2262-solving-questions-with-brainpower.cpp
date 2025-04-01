@@ -20,9 +20,16 @@ class Solution {
 public:
     long long mostPoints(vector<vector<int>>& questions) {
         int n = questions.size();
-        dp.resize(n+1,-1);
-        ll sum = findAns(0,questions);
+        dp.resize(1e6,0);
+        // ll sum = findAns(0,questions);
 
-        return sum;
+        for(int i=n-1;i>=0;i--){
+            dp[i] = max(dp[i+1],questions[i][0]+dp[i+questions[i][1]+1]); 
+        }
+
+        return dp[0];
+
+
+        // return sum;
     }
 };
