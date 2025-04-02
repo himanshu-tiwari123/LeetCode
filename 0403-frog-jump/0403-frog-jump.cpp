@@ -8,6 +8,10 @@ class Solution {
             return true;
         }
 
+        if(curr_stone > stones.back()){
+            return false;
+        }
+
 
         if(st.find(curr_stone)==st.end()){
             //this jump is not on stone:
