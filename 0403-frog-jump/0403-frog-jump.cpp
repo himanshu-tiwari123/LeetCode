@@ -43,6 +43,6 @@ public:
         }
         dp.resize(n+1,vector<int>(n,-1));
         
-        return findAns(1,1,stones);
+        return findAns(0,0,stones);
     }
 };
