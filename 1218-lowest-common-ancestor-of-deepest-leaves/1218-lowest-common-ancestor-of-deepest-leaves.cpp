@@ -10,25 +10,29 @@
  * };
  */
 class Solution {
-public:
-    TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        return dfs(root).second;
+    pair<int,TreeNode*>findAns(TreeNode *node){
+        if(!node){
+            return {0,NULL};
+        }
+
+        pair<int,TreeNode*>leftNode = findAns(node->left);
+        pair<int,TreeNode*>rightNode = findAns(node->right);
+
+        if(leftNode.first == rightNode.first){
+            //Both the depths are same=>both are the deepese leaves:
+            //So the currNode is their LCA:
+            return {leftNode.first+1,node};
+        }
+        else if(leftNode.first > rightNode.first){
+            //It means left subtree has deepest leaf nodes, So:
+            return {leftNode.first+1,leftNode.second}; 
+        }else{
+            return {rightNode.first+1,rightNode.second};
+        }
     }
     
-private:
-    pair<int, TreeNode*> dfs(TreeNode* node) {
-        if (!node) return {0, nullptr};
-        
-        auto left = dfs(node->left);
-        auto right = dfs(node->right);
-        
-        if (left.first > right.first) {
-            return {left.first + 1, left.second};
-        }
-        if (right.first > left.first) {
-            return {right.first + 1, right.second};
-        }
-        // If depths are equal, current node is LCA
-        return {left.first + 1, node};
+public:
+    TreeNode* lcaDeepestLeaves(TreeNode* root) {
+       return findAns(root).second;
     }
 };
