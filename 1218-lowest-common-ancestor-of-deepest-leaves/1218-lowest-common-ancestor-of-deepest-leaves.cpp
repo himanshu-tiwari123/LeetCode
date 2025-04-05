@@ -10,52 +10,25 @@
  * };
  */
 class Solution {
-    map<int,int>mp;
-
-    int maxDepth = -1;
-
-    void findDepth(TreeNode *node,int depth){
-        if(node==NULL){
-            return;
-        }
-        mp[node->val] = depth;
-
-        maxDepth = max(maxDepth,depth);
-
-        findDepth(node->left,depth+1);
-
-        findDepth(node->right,depth+1);
-
-    }
-    TreeNode* findLCA(TreeNode *node){
-        if(!node){
-            return NULL;
-        }
-
-        if(mp[node->val] == maxDepth){
-            return node;
-        }
-
-        TreeNode *leftNode = findLCA(node->left);
-        TreeNode *rightNode = findLCA(node->right);
-
-        if(leftNode!=NULL and rightNode!=NULL){
-            return node;
-        }
-
-        return leftNode!=NULL ? leftNode:rightNode;
-
-
-    }
 public:
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        int depth = 0;
-        // mp[root->val] = 0;
-        findDepth(root,depth);
-
-        //Now after finding the depth,we need to find the nodes at those depth:
-        TreeNode *ans = findLCA(root);
-
-        return ans;
+        return dfs(root).second;
+    }
+    
+private:
+    pair<int, TreeNode*> dfs(TreeNode* node) {
+        if (!node) return {0, nullptr};
+        
+        auto left = dfs(node->left);
+        auto right = dfs(node->right);
+        
+        if (left.first > right.first) {
+            return {left.first + 1, left.second};
+        }
+        if (right.first > left.first) {
+            return {right.first + 1, right.second};
+        }
+        // If depths are equal, current node is LCA
+        return {left.first + 1, node};
     }
 };
