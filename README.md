@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
