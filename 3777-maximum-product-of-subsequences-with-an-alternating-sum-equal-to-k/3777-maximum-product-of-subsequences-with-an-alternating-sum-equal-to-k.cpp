@@ -1,6 +1,17 @@
 class Solution {
     using ll = long long;
-    map<array<ll,4>, ll> dp;
+    // Custom hash function for std::array<ll, 4>
+    struct ArrayHash {
+        size_t operator()(const array<ll, 4>& arr) const {
+            size_t seed = 0;
+            for (ll num : arr) {
+                seed ^= hash<ll>{}(num) + 0x9e3779b9 + (seed << 6) + (seed >> 2);
+            }
+            return seed;
+        }
+    };
+
+    unordered_map<array<ll, 4>, ll, ArrayHash> dp;
 
     ll findAns(ll index, ll sum, ll product, ll parity, int k, int limit, vector<int>& nums) {
         // Base Case:
@@ -48,7 +59,7 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(0);
         cout.tie(0);
-        
+
         int curr_sum = accumulate(nums.begin(), nums.end(), 0);
         if (k > curr_sum || k < -curr_sum) {
             return -1;
