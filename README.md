@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3827-implement-router) |
 ## Bit Manipulation
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3827-implement-router](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3827-implement-router) |
 ## String
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0403-frog-jump) |
 | [2262-solving-questions-with-brainpower](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## Stack
 |  |
 | ------- |
