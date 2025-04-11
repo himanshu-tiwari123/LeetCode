@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0394-decode-string) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0403-frog-jump) |
 | [2262-solving-questions-with-brainpower](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Design
 |  |
 | ------- |
