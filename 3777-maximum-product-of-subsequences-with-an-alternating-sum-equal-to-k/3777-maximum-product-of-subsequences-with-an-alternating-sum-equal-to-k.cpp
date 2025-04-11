@@ -24,12 +24,12 @@ class Solution {
         ll not_take = findAns(index + 1, sum, product, parity, k, limit, nums);
         ll take = -5000;
 
-        // Compute new_product safely (handle 0 and overflow)
+       
         ll new_product;
         if (nums[index] == 0) {
-            new_product = 0;  // Multiplying by 0 → product becomes 0
+            new_product = 0;  // Multiplying by 0 => product becomes 0
         } else if (product == 0) {
-            new_product = 0;  // 0 * x → 0
+            new_product = 0;  // 0*something= 0
         } else {
             new_product = product * nums[index];
         }
@@ -45,6 +45,10 @@ class Solution {
 
 public:
     int maxProduct(vector<int>& nums, int k, int limit) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(0);
+        cout.tie(0);
+        
         int curr_sum = accumulate(nums.begin(), nums.end(), 0);
         if (k > curr_sum || k < -curr_sum) {
             return -1;
