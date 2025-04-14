@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0052-n-queens-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
