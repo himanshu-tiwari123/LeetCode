@@ -2,33 +2,10 @@ class Solution {
     
     vector<vector<string>>ans;
 
-    bool isPossible(int row,int col,vector<string>&grid){
-        //First check for column:
-        for(int i=0;i<row;i++){
-            if(grid[i][col] == 'Q'){
-                return false;
-            }
-        }
+    unordered_set<int>cols;
+    unordered_set<int>diagonals;
+    unordered_set<int>antiDiagonals;
 
-        //Check for left-diagonal:
-        int i=row,j=col;
-        while(i>=0 && j>=0){
-           if(grid[i][j] == 'Q'){
-               return false;
-           }
-           i--;j--;
-        }
-        //Check for right-diagonal:
-        i=row,j=col;
-        while(i>=0 && j<grid.size()){
-           if(grid[i][j] == 'Q'){
-               return false;
-           }
-           i--;j++;
-        }
-
-        return true;
-    }
 
     void findAns(int row,vector<string>&grid){
         //Base Case:
@@ -38,11 +15,26 @@ class Solution {
         }
 
         for(int col=0;col<grid.size();col++){
-            if(isPossible(row,col,grid)){
-                grid[row][col] = 'Q';//It means queen has been placed ,now move to the next row:
+
+            if(cols.find(col)==cols.end() &&
+               diagonals.find(col+row) == diagonals.end() &&
+               antiDiagonals.find(row-col) == antiDiagonals.end()
+            )  {
+                //It means we can place the Queen here:
+                cols.insert(col);
+                diagonals.insert(row+col);
+                antiDiagonals.insert(row-col);
+
+                grid[row][col] = 'Q';
+
                 findAns(row+1,grid);
 
-                grid[row][col] = '.'; //Backtrack to remove and check for other possiblities
+                grid[row][col] = '.';
+
+                cols.erase(col);
+                diagonals.erase(row+col);
+                antiDiagonals.erase(row-col);
+                
             }
         }
     }
