@@ -1,9 +1,7 @@
 class Solution {
 public:
     int countCompleteSubarrays(vector<int>& nums) {
-        //Brute Force:
-
-        int n = nums.size();
+       int n = nums.size();
 
         unordered_set<int>ust;
 
@@ -13,18 +11,33 @@ public:
 
         int distinct = ust.size();
 
+        int left = 0,right=0;
+
+        unordered_map<int,int>mp;
+
         int complete_subarrays = 0;
 
-        for(int i=0;i<n;i++){
-            unordered_set<int>st;
-           for(int j=i;j<n;j++){
-            st.insert(nums[j]);
-                if(st.size() == distinct){
-                    complete_subarrays++;
+        while(left<n){
+            if(left > 0){
+                mp[nums[left-1]]--;
+                if(mp[nums[left-1]] == 0){
+                    mp.erase(nums[left-1]);
                 }
-           }
+            }
+            while(right<n and mp.size()<distinct){
+                mp[nums[right]]++;
+                right++;
+            }
+            if(mp.size() == distinct){
+                complete_subarrays += (n-right+1);
+                cout<<right<<" "<<complete_subarrays<<"\n";
+            }
+
+            left++;
         }
 
-        return complete_subarrays; 
+        
+        return complete_subarrays;
+        
     }
 };
