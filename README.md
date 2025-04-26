@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0403-frog-jump) |
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
