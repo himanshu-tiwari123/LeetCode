@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3822-fill-a-special-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3827-implement-router](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Bit Manipulation
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3822-fill-a-special-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3822-fill-a-special-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3822-fill-a-special-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3822-fill-a-special-grid) |
 <!---LeetCode Topics End-->
