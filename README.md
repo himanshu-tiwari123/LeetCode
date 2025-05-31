@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0394-decode-string) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Recursion
 |  |
 | ------- |
