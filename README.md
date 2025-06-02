@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0118-pascals-triangle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3822-fill-a-special-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3822-fill-a-special-grid) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3827-implement-router](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3827-implement-router) |
