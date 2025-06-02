@@ -1,24 +1,23 @@
 class Solution {
     double binExp(double base,int exp){
-        //Base Case:
+
         if(exp == 0){
             return 1;
         }
-
         double half = binExp(base,exp/2);
-        double result = half*half;
+
+        double res = half*half;
 
         if(exp&1){
-            result *= base;
+            res *= base;
         }
 
-        return result;
+        return res;
     }
 public:
     double myPow(double x, int n) {
-        
-        double result = binExp(x,n);
+        double ans = binExp(x,n);
 
-        return (n<0 ? 1.0/result : result);
+        return n<0 ? 1.0/ans : ans;
     }
 };
