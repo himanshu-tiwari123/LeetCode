@@ -22,10 +22,10 @@ public:
             }
         }
 
-        while(!st.empty()){
-            ans += st.top();
-            st.pop();
-        }
+        // while(!st.empty()){
+        //     ans += st.top();
+        //     st.pop();
+        // }
 
         return ans;
 
