@@ -14,7 +14,7 @@ public:
         for(int i=0;i<n;i++){
             st.push(s[i]);
 
-            char nextMin = (i+1 < n? minSuffix[i+1] : char('z'+1));
+            char nextMin = (i+1 < n? minSuffix[i+1] : char('z'));
 
             while(!st.empty() and st.top() <= nextMin){
                 ans += st.top();
@@ -22,10 +22,6 @@ public:
             }
         }
 
-        // while(!st.empty()){
-        //     ans += st.top();
-        //     st.pop();
-        // }
 
         return ans;
 
