@@ -11,21 +11,16 @@ class Solution {
         for(int i=0;i<=9;i++){
             int next_val = curr_val*10+i;
 
-            if(next_val <= n){
-                recursion(next_val,n);
-            }else{
-                break;
-            }
+            recursion(next_val,n);
         }
     }
 public:
     vector<int> lexicalOrder(int n) {
 
-        for(int val=1;val<=9;val++){
-            recursion(val,n);
+        for(int start=1;start<=9;start++){
+            recursion(start,n);
         }
         
-
         return ans;
     }
 };
