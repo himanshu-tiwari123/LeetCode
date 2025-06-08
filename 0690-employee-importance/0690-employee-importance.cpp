@@ -9,17 +9,11 @@ public:
 */
 
 class Solution {
-    int bfs(int node,int cnt,unordered_map<int,vector<int>>&adj,unordered_map<int,int>&importance){
-        queue<int>q;
-        q.push(node);
+    int dfs(int node,int cnt,unordered_map<int,vector<int>>&adj,unordered_map<int,int>&importance){
+        cnt = importance[node];
 
-        while(!q.empty()){
-            int par_node  = q.front();q.pop();
-            cnt += importance[par_node];
-
-            for(auto &child : adj[par_node]){
-                q.push(child);
-            }
+        for(auto &child: adj[node]){
+            cnt += dfs(child,cnt,adj,importance);
         }
 
         return cnt;
@@ -41,7 +35,7 @@ public:
             }
         }
         
-        int imp = bfs(id,0,adj,importance);
+        int imp = dfs(id,0,adj,importance);
 
         return imp;
     }
