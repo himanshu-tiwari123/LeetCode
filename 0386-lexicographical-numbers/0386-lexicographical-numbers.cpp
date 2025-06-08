@@ -13,6 +13,8 @@ class Solution {
 
             if(next_val <= n){
                 recursion(next_val,n);
+            }else{
+                break;
             }
         }
     }
