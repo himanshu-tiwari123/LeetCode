@@ -5,17 +5,15 @@ public:
         int max_count = 0;
 
         for (int num : st) {
-            // Only start counting if it's the beginning of a sequence
-            if (!st.count(num - 1)) {
-                int current_num = num;
-                int current_streak = 1;
+            if(st.find(num-1) == st.end()){
+                int curr_count= 0;
 
-                while (st.count(current_num + 1)) {
-                    current_num++;
-                    current_streak++;
+                while(st.find(num) != st.end()){
+                    num ++;
+                    curr_count ++;
                 }
 
-                max_count = max(max_count, current_streak);
+                max_count = max(max_count,curr_count);
             }
         }
 
