@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
