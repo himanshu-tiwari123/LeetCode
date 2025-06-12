@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
