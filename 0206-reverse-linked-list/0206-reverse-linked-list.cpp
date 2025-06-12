@@ -11,21 +11,15 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(!head || !head->next){
-            return head;
-        }
-        //We use three pointer approach man:
-       ListNode *temp_left = NULL,*temp_mid = head;
+      if(!head or !head->next){
+        return head;
+      }
 
-       while(temp_mid){
-        ListNode *temp_right = temp_mid->next;
-        temp_mid ->next = temp_left;
+      ListNode *newHead = reverseList(head->next);
+      ListNode *front = head->next;
+      front->next = head;
+      head->next = NULL;
 
-        temp_left = temp_mid;
-
-        temp_mid = temp_right;
-       }
-
-       return temp_left;
+      return newHead;
     }
 };
