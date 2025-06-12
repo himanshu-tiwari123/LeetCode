@@ -11,39 +11,37 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        if(list1==nullptr and list2==nullptr){return NULL;}
-        
-        if(list1!=NULL and list2==NULL){return list1;}
-
-        if(list1==NULL and list2!=NULL){return list2;}
-
-        vector<int>f_list;
-        ListNode *temp1 = list1;
-        ListNode *temp2 = list2;
-
-        while(temp1!=NULL){
-            f_list.push_back(temp1->val);
-            temp1 = temp1->next;
+        if(!list1 && !list2){
+            return list1;
         }
-         while(temp2!=NULL){
-            f_list.push_back(temp2->val);
-            temp2 = temp2->next;
+        if(!list1) return list2;
+        if(!list2) return list1;
+      
+       ListNode *dummyNode = new ListNode(-1),*temp = dummyNode;
+       ListNode *i = list1,*j = list2;
+
+       while(i and j){
+        if((i->val) <= (j->val)){
+            temp->next = i;
+            temp = i;
+            i = i->next;
+        }else{
+            temp->next = j;
+            temp = j;
+            j = j->next;
         }
+       }
 
-        sort(f_list.begin(),f_list.end());
+       if(i){
+        temp->next=i;
+       }
+       if(j){
+        temp->next = j;
+       }
 
-        ListNode *dummyHead = new ListNode(-200);
+      
 
-        ListNode *temp = dummyHead;
-
-        for(int i=0;i<f_list.size();i++){
-            ListNode *curr_node = new ListNode(f_list[i]);
-            temp->next = curr_node;
-            temp = temp->next;
-        }
-
-
-        return dummyHead->next;
+        return dummyNode->next;
 
     }
 };
