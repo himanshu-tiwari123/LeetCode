@@ -23,13 +23,15 @@ public:
        while(i and j){
         if((i->val) <= (j->val)){
             temp->next = i;
-            temp = i;
+        
             i = i->next;
         }else{
             temp->next = j;
-            temp = j;
+            
             j = j->next;
         }
+
+        temp = temp->next;
        }
 
        if(i){
