@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Breadth-First Search
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0394-decode-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -274,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
