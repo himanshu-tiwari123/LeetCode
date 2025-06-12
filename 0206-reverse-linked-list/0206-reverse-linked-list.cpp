@@ -15,18 +15,17 @@ public:
             return head;
         }
         //We use three pointer approach man:
-        ListNode *temp_left=head,*temp_mid = temp_left->next;
-        cout<<temp_mid;
+       ListNode *temp_left = NULL,*temp_mid = head;
+
+       while(temp_mid){
         ListNode *temp_right = temp_mid->next;
-        
-        temp_left->next = NULL;
-        while(temp_right){ 
-            temp_mid ->next = temp_left;
-            temp_left  = temp_mid;
-            temp_mid = temp_right;
-            temp_right = temp_right->next;
-        }
-        temp_mid->next = temp_left;
-        return temp_mid;
+        temp_mid ->next = temp_left;
+
+        temp_left = temp_mid;
+
+        temp_mid = temp_right;
+       }
+
+       return temp_left;
     }
 };
