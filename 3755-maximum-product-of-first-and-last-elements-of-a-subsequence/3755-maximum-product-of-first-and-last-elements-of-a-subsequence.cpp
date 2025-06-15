@@ -2,6 +2,8 @@ class Solution {
     #define ll long long
 public:
     long long maximumProduct(vector<int>& nums, int m) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(0);cout.tie(0);
         ll ans = LLONG_MIN;
         int n=nums.size();
         if(m==1){
