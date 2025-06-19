@@ -8,8 +8,8 @@ public:
 
         for(int i=0;i<n;i++){
            int range = nums[i]+k;
-           cout<<i<<"->";
-           cout<<range<<"\n";
+        //    cout<<"->"<<i<<"\n";
+        //    cout<<range<<"\n";
            bool kiyaKya = false;
            while(i<n){
               if(nums[i]<=range){
@@ -20,7 +20,7 @@ public:
                 break;
               }
            }
-        cout<<i<<"=>";
+        // cout<<"=>"<<i<<"\n";
            if(kiyaKya){
             cnt++;
             i--;
