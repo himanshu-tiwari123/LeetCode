@@ -2,9 +2,9 @@ class Solution {
     vector<vector<int>>dp;
     int findAns(int index,int target,vector<int>&coins){
         //Base Case:
-        if(target == 0){
-            return 1;
-        }
+        // if(target == 0){
+        //     return 1;
+        // }
         if(target<0){
             return 0;
         }
@@ -37,14 +37,6 @@ public:
         
         for(int amount=1;amount<=n;amount++){
             
-            // if(coins.size()==0 and  numWays[amount-1] == 1){
-                
-            //     coins.push_back(amount);
-            // }
-            // if(coins.size() == 0){
-            //     continue;
-            // }
-           
             dp.assign(coins.size()+1,vector<int>(amount+1,-1));
 
             int curr_ways =(coins.size()>0 ? findAns(0,amount,coins) : 0);
