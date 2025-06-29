@@ -20,25 +20,25 @@ class Solution {
             return {0};
         }
         vector<int>lcp(n-1,0);
-        for(int i=0;i<=n-2;i++){
+        for(int i=0;i<=n-2;i++){ //O(n)
             lcp[i] = calcLCP(words[i],words[i+1]);
         }
 
         vector<int>prefMax(n-1,0),suffMax(n-1,0);
         prefMax[0] = lcp[0],suffMax[n-2]=lcp[n-2];
 
-        for(int i=1;i<=n-2;i++){
+        for(int i=1;i<=n-2;i++){ //O(n)
             prefMax[i] = max(prefMax[i-1],lcp[i]);
         }
 
-        for(int i=n-3;i>=0;i--){
+        for(int i=n-3;i>=0;i--){ //O(n)
             suffMax[i] = max(suffMax[i+1],lcp[i]);
         }
 
         vector<int>ans(n,0);
 
-        for(int i=0;i<n;i++){
-            if(i==0){
+        for(int i=0;i<n;i++){ //O(n*length_of_words,to be specific min(len(words[i-1],words[i+1])) approx:
+            if(i==0){         //O(n*m)
                 ans[i] = (i+1<=n-2 ? suffMax[i+1] : 0);
             }
             else if(i==n-1){
