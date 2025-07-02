@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0031-next-permutation) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
