@@ -8,7 +8,7 @@ class Solution {
             return;
         }
 
-        if(index>=arr.size()){
+        if(index>=arr.size() or target<0){
             return;
         }
         
@@ -20,15 +20,15 @@ class Solution {
 
             temp.pop_back();
         }
-        //skip duplicate elements:
+        
+        // skip duplicate elements:
         while(index+1<arr.size() and arr[index]==arr[index+1]){
             index++;
         }
+
         ///not-take
         findAns(index+1,temp,target,arr);
 
-       
-        
     }
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
