@@ -3,28 +3,38 @@ class Solution {
 
     void findAns(int index,vector<int>&temp,int target,vector<int>&arr){
         //Base Case:
-        
         if(target == 0){
             ans.push_back(temp);
             return;
         }
 
-        for(int i=index;i<arr.size();i++){
-            if(i != index and arr[i]==arr[i-1]) continue;
+        if(index>=arr.size()){
+            return;
+        }
+        
+        //take:
+        if(target-arr[index] >= 0){
+            temp.push_back(arr[index]);
 
-            if(target<0) return;
-
-            temp.push_back(arr[i]);
-
-            findAns(i+1,temp,target-arr[i],arr);
+            findAns(index+1,temp,target-arr[index],arr);
 
             temp.pop_back();
         }
+        //skip duplicate elements:
+        while(index+1<arr.size() and arr[index]==arr[index+1]){
+            index++;
+        }
+        ///not-take
+        findAns(index+1,temp,target,arr);
+
+       
         
     }
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         vector<int>temp;
+
+        ans.clear();
 
         sort(begin(candidates),end(candidates));
 
