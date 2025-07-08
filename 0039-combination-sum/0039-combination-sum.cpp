@@ -2,7 +2,7 @@ class Solution {
     vector<vector<int>>ans;
     void findAns(int index,vector<int>& candidates,vector<int>&res,int target){
         //Base Case:
-        if(index>=candidates.size()){
+        if(target<0 || index>=candidates.size()){
             return;
         }
         if(target == 0){
