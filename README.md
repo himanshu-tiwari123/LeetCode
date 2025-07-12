@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1105-uncrossed-lines](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
