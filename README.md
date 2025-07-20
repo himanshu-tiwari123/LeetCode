@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1105-uncrossed-lines](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
