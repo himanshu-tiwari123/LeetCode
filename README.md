@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [3827-implement-router](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3827-implement-router) |
 ## Tree
