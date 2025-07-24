@@ -28,7 +28,7 @@ class Solution {
 public:
     int minimumScore(vector<int>& nums, vector<vector<int>>& edges) {
         int  n = nums.size();
-        
+
         unordered_map<int,vector<int>>adj;
 
         for(auto &it:edges){
