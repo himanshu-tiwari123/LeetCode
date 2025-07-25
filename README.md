@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0322-coin-change) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Heap (Priority Queue)
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -379,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0042-trapping-rain-water) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
