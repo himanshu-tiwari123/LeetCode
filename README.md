@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
