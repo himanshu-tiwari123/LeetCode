@@ -17,7 +17,10 @@ public:
             return 0;
         }
 
-        return dfs(root);
+        dfs(root);
+
+
+        return max_sum;
 
     }
 
@@ -28,12 +31,12 @@ public:
             return 0;
         }
         
-        int leftSum =max(0, root->val +  maxPathSum(root->left));
+        int leftSum =max(0,dfs(root->left));
 
-        int rightSum =max(0,root->val + maxPathSum(root->right));
+        int rightSum =max(0,dfs(root->right));
 
-        max_sum = max(max_sum, leftSum+rightSum);
+        max_sum = max(max_sum, leftSum+rightSum+root->val);
 
-        return leftSum + rightSum - root->val ;
+        return max(leftSum,rightSum)+root->val;
     }
 };
