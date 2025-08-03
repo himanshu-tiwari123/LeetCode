@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
