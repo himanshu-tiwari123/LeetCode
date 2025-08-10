@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
