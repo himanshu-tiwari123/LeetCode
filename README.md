@@ -89,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0547-number-of-provinces) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
