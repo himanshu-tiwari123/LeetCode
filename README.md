@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
 | [0679-24-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
+| [0940-fruit-into-baskets](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
+| [0940-fruit-into-baskets](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
