@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
+| [0679-24-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0050-powx-n) |
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0679-24-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
