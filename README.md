@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Matrix
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-knight-dialer](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0972-knight-dialer) |
 | [1105-uncrossed-lines](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
