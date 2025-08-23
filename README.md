@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0207-course-schedule) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0547-number-of-provinces) |
