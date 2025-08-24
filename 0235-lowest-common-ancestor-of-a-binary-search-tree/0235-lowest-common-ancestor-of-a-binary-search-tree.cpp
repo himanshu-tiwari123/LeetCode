@@ -19,15 +19,14 @@ public:
             return root;
         }
 
-        TreeNode *left = lowestCommonAncestor(root->left,p,q);
-
-        TreeNode *right = lowestCommonAncestor(root->right,p,q);
-
-        if(left && right){
-            return root;
+        if(p->val <root->val and q->val < root->val){
+            return lowestCommonAncestor(root->left,p,q);
         }
-        
 
-        return left!=NULL ? left : right;
+        if(p->val > root->val  and q->val > root->val){
+            return lowestCommonAncestor(root->right,p,q);
+        }
+
+        return root;
     }
 };
