@@ -13,9 +13,9 @@ class Solution {
 
     int dfs(int i,int j,vector<vector<int>>& grid){
 
-        if(!isValid(i,j,grid) || grid[i][j] == 0){
-            return 0;
-        }
+        // if(!isValid(i,j,grid) || grid[i][j] == 0){
+        //     return 0;
+        // }
 
         int curr_cost = grid[i][j];
 
