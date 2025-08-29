@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Matrix
 |  |
