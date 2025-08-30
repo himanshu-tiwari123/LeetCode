@@ -40,11 +40,9 @@ public:
 
         //0->right,1->down;
 
-        int r = findAns(0,1,0,grid);
+        
 
-        int d = findAns(1,0,1,grid);
-
-        return (r+d)%modulo;
+        return  findAns(0,0,2,grid);
 
     }
 };
