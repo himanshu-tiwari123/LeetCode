@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2530-minimize-maximum-of-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
