@@ -1,28 +1,31 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int n=height.size();int max_left=0,max_right=0;
-        vector<int>prefix_left;vector<int>suffix_right;
-     //Creating prefix-left ;
+        int n = height.size();
+        vector<int>prefix(n),suffix(n);
+        prefix[0] = height[0];
+        suffix[n-1] = height[n-1];
+
+        for(int i=1;i<n;i++){
+           prefix[i] = max(prefix[i-1],height[i]);
+        }
+
+        for(int i=n-2;i>=0;i--){
+            suffix[i] = max(suffix[i+1],height[i]);
+        }
+
+        // reverse(suffix.begin(),suffix.end());
+
+        int max_area = 0;
+
         for(int i=0;i<n;i++){
-        max_left=max( max_left,height[i]);
-        prefix_left.push_back(max_left);
-        }
-    //Creating suffix
-        for(int i=n-1;i>=0;i--){
-        max_right=max( max_right,height[i]);
-        suffix_right.push_back(max_right);
-        }
-       //Reverse the max_right
-       reverse(suffix_right.begin(),suffix_right.end());
-       //Calculating the amount of water that can be stored
-       int  sum=0;
+          int curr_area = min(prefix[i],suffix[i]) - height[i];
 
-       for(int i=0;i<n;i++){
-           int amt_of_water_filled=min(prefix_left[i],suffix_right[i])-height[i];
-           sum +=amt_of_water_filled;
-       }
-       return sum;
+          max_area += curr_area;
+        }
 
+
+        return max_area;
+        
     }
 };
