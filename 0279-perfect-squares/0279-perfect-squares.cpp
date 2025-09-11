@@ -4,9 +4,9 @@ class Solution {
 
     int findAns(int index,int target,vector<int>&coins){
         //Base Condition:
-        if(index>=coins.size()){
-            return INT_MAX;
-        }
+        // if(index>=coins.size()){
+        //     return INT_MAX;
+        // }
 
         if(index ==  coins.size()-1){
             if((target % coins[index]) == 0){
