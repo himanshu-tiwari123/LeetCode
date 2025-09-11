@@ -40,8 +40,34 @@ public:
             i++;
         }
 
-        dp.resize(coins.size(),vector<int>(n+1,-1));
+        int m = coins.size();
 
-        return findAns(0,n,coins);
+        dp.resize(m+1,vector<int>(n+1,INT_MAX));
+
+        // return findAns(0,n,coins);
+
+        // Lets to tabulation approach:
+        for(int target=0;target<=n;target++){
+            if(target%coins[0] ==0){
+                dp[0][target] = (target/coins[0]);
+            }
+        }
+
+        for(int index=1;index<m;index++){
+            for(int target=0;target<=n;target++){
+              int not_take = dp[index-1][target];
+
+              int take = 1e9;
+
+              if(target-coins[index] >=0){
+                take = 1 + dp[index][target-coins[index]];
+              }
+
+              dp[index][target] = min(take,not_take);
+
+            }
+        }
+
+        return dp[m-1][n];
     }
 };
