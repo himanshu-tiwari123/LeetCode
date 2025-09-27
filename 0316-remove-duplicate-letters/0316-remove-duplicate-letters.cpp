@@ -1,33 +1,29 @@
 class Solution {
 public:
     string removeDuplicateLetters(string s) {
+        int n = s.size();
+        vector<int>lastIndex(26,0);
+        for(int i=0;i<s.size();i++){
+            lastIndex[s[i]-'a']=i;
+        }
+
         stack<char>st;
 
-        int n = s.size();
+        vector<bool>inStack(26,false);
 
-        int last_index[26]={0};
+        for(int i=0;i<s.size();i++){
+            if(inStack[s[i]-'a']) continue;
 
-        for(int i=0;i<n;i++){
-            last_index[s[i]-'a']=i;
-        }
-
-        bool visited[26] = {false};
-
-        for(int i=0;i<n;i++){
-            char curr = s[i];
-
-            if(visited[curr-'a']) continue; //duplicate element hai bhai:
-
-            while(!st.empty() and curr<st.top() and last_index[st.top()-'a'] > i){
-                visited[st.top()-'a'] = false;
+            while(!st.empty() and st.top() > s[i] and lastIndex[st.top()-'a'] > i){
+                inStack[st.top()-'a'] = false;
                 st.pop();
             }
+            
+            inStack[s[i]-'a'] = true;
+            st.push(s[i]);
 
-            st.push(curr);
-            visited[curr-'a'] = true;
-
+          
         }
-
 
         string ans = "";
 
