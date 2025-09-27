@@ -19,9 +19,9 @@ public:
                 st.pop();
             }
             
-            inStack[s[i]-'a'] = true;
-            st.push(s[i]);
-
+                inStack[s[i]-'a'] = true;
+                st.push(s[i]);
+         
           
         }
 
