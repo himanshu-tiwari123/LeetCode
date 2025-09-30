@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0739-daily-temperatures) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0739-daily-temperatures) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Strongly Connected Component
 |  |
 | ------- |
