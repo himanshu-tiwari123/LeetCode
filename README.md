@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Matrix
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3336-water-bottles-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Prefix Sum
