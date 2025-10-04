@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3221-find-the-peaks](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3221-find-the-peaks) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3221-find-the-peaks](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3221-find-the-peaks) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Design
