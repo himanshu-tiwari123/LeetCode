@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3221-find-the-peaks](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3221-find-the-peaks) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3430-count-days-without-meetings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2681-put-marbles-in-bags](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting Sort
