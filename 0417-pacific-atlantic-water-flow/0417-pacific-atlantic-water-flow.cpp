@@ -1,12 +1,10 @@
 class Solution {
-    vector<vector<int>>res;
-    bool isValid(int i,int j,vector<vector<int>>&grid){
-        int n=grid.size(),m = grid[0].size();
+    bool isValid(int i,int j,vector<vector<int>>& heights){
+        int n = heights.size(), m= heights[0].size();
 
         return i>=0 and i<n and j>=0 and j<m;
     }
-
-    void bfs(int i ,int j,vector<vector<bool>>&visited,vector<vector<int>>&grid){
+    void bfs(int i,int j,vector<vector<bool>>&visited,vector<vector<int>>& heights){
         visited[i][j] = true;
         queue<pair<int,int>>q;
         q.push({i,j});
@@ -16,47 +14,63 @@ class Solution {
         while(!q.empty()){
             auto [i,j] = q.front();
             q.pop();
+           
+            for(auto &it: directions){
+                int x = i + it.first;
+                int y = j + it.second;
 
-            for(auto &[x,y] : directions){
-                int nx = i + x;
-                int ny = j + y;
 
-                if(isValid(nx,ny,grid) and !visited[nx][ny] and grid[nx][ny] >= grid[i][j]){
-                    visited[nx][ny] = true;
-                    q.push({nx,ny});
+                if(isValid(x,y,heights) and !visited[x][y] and heights[x][y] >= heights[i][j]){
+                    visited[x][y] = true;
+                    q.push({x,y});
                 }
             }
+
         }
     }
 public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        int  n = heights.size() , m = heights[0].size();
+        int n = heights.size(),m=heights[0].size();
 
-        vector<vector<bool>>visitedPacific(n,vector<bool>(m,false));
-        vector<vector<bool>>visitedAtlantic(n,vector<bool>(m,false));
-        
-        for(int j=0;j<m;j++){
-           bfs(0,j,visitedPacific,heights);
-           bfs(n-1,j,visitedAtlantic,heights);
-        }
+        vector<vector<bool>>vis1(n,vector<bool>(m,false));
+        vector<vector<bool>>vis2(n,vector<bool>(m,false));
 
         for(int i=0;i<n;i++){
-           bfs(i,0,visitedPacific,heights);
-           bfs(i,m-1,visitedAtlantic,heights);
+            if(!vis1[i][0]){
+                bfs(i,0,vis1,heights);
+            }
+        
+            if(!vis2[i][m-1]){
+                bfs(i,m-1,vis2,heights);
+            }
+
+           
         }
 
+        for(int j=0;j<m;j++){
+            if(!vis1[0][j]){
+                bfs(0,j,vis1,heights);
+            }
         
+            if(!vis2[n-1][j]){
+                bfs(n-1,j,vis2,heights);
+            }
+
+           
+        }
+
+        vector<vector<int>>res;
+
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(visitedPacific[i][j] && visitedAtlantic[i][j]){
+                if(vis1[i][j] and vis2[i][j]){
                     res.push_back({i,j});
                 }
-
-                
             }
         }
 
-       return res;
+
+        return res;
     }
 };
