@@ -20,6 +20,8 @@ class Solution {
 
         return dp[index][prev_index+1] = max(take,not_take);
     }
+
+
     int findAns(vector<int>&arr){
         vector<int>lis;
 
@@ -38,7 +40,7 @@ public:
     int maxEnvelopes(vector<vector<int>>& envelopes) {
         int n = envelopes.size();
 
-        auto compare =[&](vector<int>a,vector<int>b){
+        auto compare =[&](vector<int>&a,vector<int>&b){
             if(a[0] == b[0]) return a[1] > b[1];
 
             return a[0] < b[0];
