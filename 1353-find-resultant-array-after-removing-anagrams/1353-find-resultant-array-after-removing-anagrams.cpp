@@ -1,9 +1,23 @@
 class Solution {
     bool areAnagrams(string &s,string &t){
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+        if(t.size() != s.size()) return false;
 
-        return s==t;
+        vector<int>f1(26,0);
+        for(int i=0;i<s.size();i++){
+            f1[s[i]-'a']++;
+        }
+
+        for(int i=0;i<t.size();i++){
+            f1[t[i]-'a']--;
+           
+        }
+
+        for(int i=0;i<26;i++){
+            if(f1[i] != 0) return false;
+        }
+
+
+        return true;
     }
 public:
     vector<string> removeAnagrams(vector<string>& words) {
