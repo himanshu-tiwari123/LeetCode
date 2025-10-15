@@ -8,7 +8,7 @@ public:
         while(r<n-1){
             int farthest = 0;
 
-            for(int i=l;i<=r and r<n;i++){
+            for(int i=l;i<=r;i++){
                 farthest = max(farthest,i+nums[i]);
                 
             }
