@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [0724-find-pivot-index](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
