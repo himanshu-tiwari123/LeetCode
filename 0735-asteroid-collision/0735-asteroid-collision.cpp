@@ -8,7 +8,7 @@ public:
         stack<int>st;
 
         for(int i=0;i<n;i++){
-            if(asteroids[i] > 0 || (st.empty() and asteroids[i] < 0)){
+            if(asteroids[i] > 0 ){
                 st.push(asteroids[i]);
             }else{
                 while(!st.empty() and (st.top()>0) and st.top()< abs(asteroids[i])){
