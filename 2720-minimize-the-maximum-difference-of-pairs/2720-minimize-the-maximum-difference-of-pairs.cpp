@@ -23,7 +23,7 @@ public:
         
         sort(nums.begin(),nums.end());
 
-        int l=0,r=nums[n-1]-nums[0]+1;
+        int l=0,r=nums[n-1]-nums[0];
 
         int ans = INT_MAX;
 
