@@ -7,7 +7,7 @@ public:
 
         if(s.empty()) return 0;
 
-        int max_len = 1;
+        int max_len = 0;
 
         while(r<n){
             mp[s[r]]++;
