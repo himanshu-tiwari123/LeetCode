@@ -15,15 +15,7 @@ public:
             suffix[i] = suffix[i+1] + (s[i] == '0' ? 1: 0);
         }
 
-        for(auto &it: prefix){
-            cout<<it<<" ";
-        }
-        cout<<"\n";
-        for(auto &it: suffix){
-            cout<<it<<" ";
-        }
-        
-
+       
         int min_flips = n;
 
         for(int i=0;i<n-1;i++){
