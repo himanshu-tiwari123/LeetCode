@@ -1,5 +1,5 @@
 class Solution {
-    #define P pair<int,int>;
+    using P = pair<int,int>;
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         unordered_map<int,int>mp;
@@ -8,7 +8,7 @@ public:
             mp[it]++;
         }
 
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        priority_queue<P,vector<P>,greater<P>>pq;
 
         for(auto &it: mp){
             int val = it.first;
