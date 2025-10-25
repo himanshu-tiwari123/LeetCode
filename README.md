@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0535-encode-and-decode-tinyurl](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-swim-in-rising-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -597,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3822-fill-a-special-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3822-fill-a-special-grid) |
 ## Trie
 |  |
@@ -672,4 +678,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
