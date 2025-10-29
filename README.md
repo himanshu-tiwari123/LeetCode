@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-swim-in-rising-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3336-water-bottles-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -388,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2681-put-marbles-in-bags](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2681-put-marbles-in-bags) |
