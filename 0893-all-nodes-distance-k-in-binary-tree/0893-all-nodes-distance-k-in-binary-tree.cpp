@@ -37,37 +37,32 @@ public:
 
         vector<int>ans;
 
-        queue<pair<TreeNode *,int>>q1;
+        queue<pair<int,int>>q1;
 
         unordered_set<int>visited;
 
-        q1.push({target,0});
+        q1.push({target->val,0});
+
+        visited.insert(target->val);
 
         while(!q1.empty()){
-            TreeNode *node = q1.front().first;
+            int node = q1.front().first;
             int level = q1.front().second;
             q1.pop();
 
-            visited.insert(node->val);
-
             if(level == k){
-                if(node->val == target->val ){
-                    if(k == 0){
-                        ans.push_back(node->val);
-                    }
-                }else{
-                    ans.push_back(node->val);
-                }
+
+                ans.push_back(node);
+                
+                continue;
             }
 
 
-            for(auto &it: adj[node->val]){
+            for(auto &it: adj[node]){
 
                 if(visited.find(it) == visited.end()){
                     visited.insert(it);
-
-                    TreeNode *newNode = new TreeNode(it);
-                    q1.push({newNode,level+1});
+                    q1.push({it,level+1});
                 }
                 
             }
