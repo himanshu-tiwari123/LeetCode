@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0778-reorganize-string) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0794-swim-in-rising-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Backtracking
