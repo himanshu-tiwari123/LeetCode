@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1105-uncrossed-lines](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1331-path-with-maximum-gold](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1331-path-with-maximum-gold) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
