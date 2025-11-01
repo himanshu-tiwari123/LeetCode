@@ -21,7 +21,7 @@ class Solution {
 
         ll take = 0;
 
-        if(len==0 || prev==-1){
+        if(prev==-1){
             take = findAns(index+1,len+1,s[index]-'0',s);
         }else{
             if(s[index] != prev+'0'){
@@ -34,8 +34,6 @@ class Solution {
 public:
     long long numberOfWays(string s) {
         int n = s.size();
-        // dp.resize(n+1,-1);
-        string temp="";
         memset(dp,-1,sizeof(dp));
         return findAns(0,0,-1,s);
     }
