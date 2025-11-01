@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2530-minimize-maximum-of-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2530-minimize-maximum-of-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
