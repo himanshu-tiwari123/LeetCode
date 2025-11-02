@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1829-maximum-units-on-a-truck](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1829-maximum-units-on-a-truck](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0778-reorganize-string) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1829-maximum-units-on-a-truck](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
