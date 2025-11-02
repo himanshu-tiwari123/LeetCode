@@ -4,6 +4,8 @@ public:
         int n = products.size();
         vector<vector<string>>ans;
 
+        sort(products.begin(),products.end());
+
         string s = "";
 
         for(auto &c :searchWord){
@@ -14,10 +16,11 @@ public:
                string temp = products[i].substr(0,l);
                 if(s == temp){
                     res.push_back(products[i]);
+                    if(res.size() == 3) break;
                 }
             }
 
-            sort(res.begin(),res.end());
+            
             vector<string>t;
             for(int i=0;i<min(3,(int)res.size()); i++){
                t.push_back(res[i]);
