@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0763-special-binary-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0778-reorganize-string) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0394-decode-string) |
+| [0763-special-binary-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0763-special-binary-string) |
 ## Binary Search
 |  |
 | ------- |
