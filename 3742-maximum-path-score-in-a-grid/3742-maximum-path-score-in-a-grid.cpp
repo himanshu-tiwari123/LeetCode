@@ -1,5 +1,6 @@
 class Solution {
-    int dp[201][201][401];
+    // int dp[201][201][401];
+    vector<vector<vector<int>>>dp;
     int n, m;
 
 
@@ -44,7 +45,9 @@ public:
     int maxPathScore(vector<vector<int>>& grid, int k) {
         n = grid.size(); m = grid[0].size();
          
-        memset(dp,-1, sizeof(dp));
+        // memset(dp,-1, sizeof(dp));
+
+        dp.assign(201,vector<vector<int>>(201,vector<int>(1001,-1)));
 
         if(k>400){
             k=400;
