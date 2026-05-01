@@ -46,8 +46,8 @@ public:
          
         memset(dp,-1, sizeof(dp));
 
-        if(k>500){
-            k=500;
+        if(k>400){
+            k=400;
         }
 
         int ans = findAns(0,0,k,grid);
