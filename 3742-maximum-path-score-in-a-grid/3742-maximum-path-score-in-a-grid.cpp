@@ -1,5 +1,5 @@
 class Solution {
-    int dp[201][201][501];
+    int dp[201][201][401];
     int n, m;
 
 
