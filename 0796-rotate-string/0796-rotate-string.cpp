@@ -6,7 +6,7 @@ public:
         }
         s += s;
 
-        if(s.find(goal) != string::npos){
+        if(s.contains(goal)){
             return true;
         }
 
