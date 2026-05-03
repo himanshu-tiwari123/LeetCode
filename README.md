@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0962-flip-string-to-monotone-increasing](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1006-vowel-spellchecker](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -784,4 +785,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
