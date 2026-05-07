@@ -1,19 +1,4 @@
 class Solution {
-    int binarySearch(int val,int low,int high,vector<int>&arr){
-        int index = -1;
-
-        while(low<=high){
-            int mid = (low + (high-low)/2);
-            if(arr[mid] < val){
-                index = mid;
-                low = mid+1;
-            }else{
-                high = mid-1;
-            }
-        }
-
-        return index;
-    }
 public:
     int triangleNumber(vector<int>& nums) {
         int n = nums.size();
@@ -21,15 +6,20 @@ public:
 
         int cnt = 0;
 
-        //a +b > c so we do a > c-b;
+        for(int k=n-1;k>=2;k--){
+            int c = nums[k];
 
-        for(int i=0;i<=(n-3);i++){
-            int a = nums[i];
-            for(int j=i+1;j<=(n-2);j++){
-                int b = nums[j];
-                int res= binarySearch(a+b,j+1,n-1,nums)-j;
-                // cout<<res<<" ";
-                cnt += max(res,0);
+            int i=0,j=k-1;
+
+            while(i<j){
+                int a = nums[i], b=nums[j];
+
+                if(a+b > c){
+                    cnt += (j-i);
+                    j--;
+                }else{
+                    i++;
+                }
             }
         }
 
