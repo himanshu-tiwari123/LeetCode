@@ -13,28 +13,26 @@ public:
         vector<int>prefixSum(n,0);
 
         prefixSum[0] = (nums[0]==0);
-
-        int zero_count = count(nums.begin(),nums.end(),0);
-
-        if(zero_count == n and k==0){
-            return 0;
-        }
-
-        if(zero_count == 0){
-            return n;
-        }
         
         for(int i=1;i<n;i++){
             prefixSum[i] = (prefixSum[i-1] + (nums[i]==0));
         }
 
+        int zero_count = prefixSum[n-1];
+
+        if(zero_count <= k){
+            return n;
+        }
+
+
+   
         //Now we can apply BS on this cause, its in ascending order :
         int max_consecutive_ones = 0;
 
         for(int i=0;i<n;i++){
-            if(prefixSum[i] > 0){
+            
                 int high = i, low = 0;
-                int index = i;
+                int index = i+1;
 
                 while(low <= high){
                     int mid = low + (high-low)/2;
@@ -49,7 +47,7 @@ public:
                 }
 
                 max_consecutive_ones = max(max_consecutive_ones, i-index+1);
-            }
+            
         }
 
 
