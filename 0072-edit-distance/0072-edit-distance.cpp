@@ -20,14 +20,15 @@ class Solution {
 
         //3 parts: 
         //Insert
-        int insert = 1 + findAns(i,j-1,s1,s2);
+        return dp[i][j] = 1 + min({findAns(i,j-1,s1,s2) ,findAns(i-1,j,s1,s2),findAns(i-1,j-1,s1,s2) });
+        // int insert = 1 + findAns(i,j-1,s1,s2);
 
-        int remove = 1 + findAns(i-1,j,s1,s2);
+        // int remove = 1 + findAns(i-1,j,s1,s2);
 
-        int replace = 1 + findAns(i-1,j-1,s1,s2);
+        // int replace = 1 + findAns(i-1,j-1,s1,s2);
 
 
-        return dp[i][j] = min({insert,remove,replace});
+        // return dp[i][j] = min({insert,remove,replace});
     }
 public:
     int minDistance(string word1, string word2) {
