@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
