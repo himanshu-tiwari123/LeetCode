@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshu-tiwari123/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshu-tiwari123/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshu-tiwari123/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
