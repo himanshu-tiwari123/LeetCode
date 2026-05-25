@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1016-subarray-sums-divisible-by-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
