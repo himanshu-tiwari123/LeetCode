@@ -9,11 +9,9 @@ public:
     bool insert(int val) {
         
         if(mp.count(val)){
-            cout<<mp[val]<<" ";
+           
             return false;
         }
-
-        cout<<val<<" insert ho gaya hai\n";
 
         arr.push_back(val);
         mp[val] = arr.size()-1;
