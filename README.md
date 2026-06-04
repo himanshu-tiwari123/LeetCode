@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
