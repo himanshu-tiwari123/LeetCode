@@ -9,14 +9,16 @@ public:
 
         unordered_map<char,int>mp;
 
+        int max_freq = 0;
+
         while(r<n){
             mp[s[r]]++;
 
-            int max_freq = 0;
+            max_freq = max(max_freq, mp[s[r]]);
 
-            for(auto &it: mp){
-                max_freq = max(max_freq, it.second);
-            }
+            // for(auto &it: mp){
+            //     max_freq = max(max_freq, it.second);
+            // }
 
             int replace = (r-l+1) - max_freq;
 
