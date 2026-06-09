@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3689-maximum-total-subarray-value-i](https://github.com/himanshu-tiwari123/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3689-maximum-total-subarray-value-i](https://github.com/himanshu-tiwari123/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting Sort
 | Problem Name | Difficulty |
