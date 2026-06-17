@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/himanshu-tiwari123/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
