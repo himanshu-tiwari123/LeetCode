@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1829-maximum-units-on-a-truck](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1972-rotating-the-box](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1972-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/himanshu-tiwari123/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
