@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2262-solving-questions-with-brainpower](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshu-tiwari123/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
 | [0778-reorganize-string](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
