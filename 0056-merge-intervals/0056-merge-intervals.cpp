@@ -3,11 +3,11 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         int n= intervals.size();
 
-        auto compare = [&](vector<int>&a, vector<int>&b){
-           return a[0] < b[0];
-        };
+        // auto compare = [&](vector<int>&a, vector<int>&b){
+        //    return a[0] < b[0];
+        // };
 
-        sort(begin(intervals), end(intervals), compare);
+        sort(begin(intervals), end(intervals));
 
         vector<vector<int>>ans;
 
