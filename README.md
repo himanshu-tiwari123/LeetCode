@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0139-word-break) |
 ## Monotonic Queue
 |  |
