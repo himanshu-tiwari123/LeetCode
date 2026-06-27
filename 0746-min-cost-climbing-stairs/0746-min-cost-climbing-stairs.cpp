@@ -20,7 +20,9 @@ public:
             return dp[index] = min(one_step,two_steps);
         };
 
+        findAns(findAns,0);
 
-        return min(findAns(findAns,0), findAns(findAns,1));
+
+        return min(dp[0],dp[1]);
     }
 };
