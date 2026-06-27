@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2530-minimize-maximum-of-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2530-minimize-maximum-of-array) |
