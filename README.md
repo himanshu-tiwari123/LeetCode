@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0403-frog-jump) |
+| [0746-min-cost-climbing-stairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0972-knight-dialer](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0972-knight-dialer) |
