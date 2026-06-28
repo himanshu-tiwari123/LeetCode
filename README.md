@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0679-24-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0679-24-game) |
+| [1025-divisor-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1025-divisor-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0972-knight-dialer](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0972-knight-dialer) |
+| [1025-divisor-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1025-divisor-game) |
 | [1105-uncrossed-lines](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -851,4 +853,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
