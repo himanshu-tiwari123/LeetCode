@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0139-word-break) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
