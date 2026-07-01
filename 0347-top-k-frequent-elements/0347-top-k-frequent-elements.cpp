@@ -14,7 +14,7 @@ public:
 
         for(auto &it: mp){
            
-            cout<<it.first<<" "<<it.second<<"\n";
+            // cout<<it.first<<" "<<it.second<<"\n";
             if(pq.size() >= k){
                 int freq1 = pq.top().first;
                 int freq2 = it.second;
