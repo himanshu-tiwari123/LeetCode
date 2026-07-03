@@ -15,11 +15,7 @@ public:
                 return 0;
             }
             
-            if(ans <= INT_MAX-digit){
-               ans += digit;
-            }else{
-                return 0;
-            }
+            ans += digit;
             
             
             x/=10;
