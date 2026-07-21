@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0090-subsets-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0207-course-schedule) |
@@ -701,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0257-binary-tree-paths) |
