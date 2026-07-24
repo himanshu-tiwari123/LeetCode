@@ -18,14 +18,14 @@ public:
                return true;
             }
 
-            bool ans1 = dfs(dfs,i+1,j,s,visited);
-            bool ans2 = dfs(dfs,i,j+1,s,visited);
-            bool ans3 = dfs(dfs,i-1,j,s,visited);
-            bool ans4 = dfs(dfs,i,j-1,s,visited);
+            bool ans=dfs(dfs,i+1,j,s,visited) ||
+                    dfs(dfs,i,j+1,s,visited) ||
+                    dfs(dfs,i-1,j,s,visited) ||
+                    dfs(dfs,i,j-1,s,visited);
 
             visited[i][j] = false;
 
-            return ans1 || ans2 || ans3 || ans4;
+            return ans;
         };
 
         for(int i=0;i<n;i++){
