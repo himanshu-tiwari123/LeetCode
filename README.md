@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0397-integer-replacement](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0397-integer-replacement) |
 | [1022-unique-paths-iii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0397-integer-replacement](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0403-frog-jump) |
 | [0741-cherry-pickup](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0397-integer-replacement) |
 ## Monotonic Queue
 |  |
 | ------- |
