@@ -12,15 +12,10 @@ class Solution {
         int min_ops1 = 0, min_ops2 = 0, min_ops3 = 0;
 
         if(n%2 == 0){
-            min_ops1 = 1 + findAns(n/2);
-        }else{
-            min_ops2 = 1 + findAns(n-1);
-
-            min_ops3 = 1 + findAns(n+1);
+           return dp[n] = 1 + findAns(n/2);
         }
 
-
-        return dp[n] = min(min_ops1 + min_ops2 , min_ops1 + min_ops3);
+        return dp[n] = 1 + min(findAns(n-1), findAns(n+1));
     }
 public:
     int integerReplacement(int n) {
