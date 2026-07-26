@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0229-majority-element-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0279-perfect-squares) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -888,4 +892,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1025-divisor-game) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
