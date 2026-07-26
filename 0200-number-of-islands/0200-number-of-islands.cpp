@@ -1,3 +1,11 @@
+static const auto fast_io = []() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    return 0;
+}();
+
+
+
 class DSU{
     public:
     vector<int>parent;
