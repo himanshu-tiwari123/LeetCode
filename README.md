@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/himanshu-tiwari123/LeetCode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -896,4 +898,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0200-number-of-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Graph Theory
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
