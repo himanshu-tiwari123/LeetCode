@@ -11,32 +11,33 @@
  */
 class Solution {
 public:
-    int max_sum = INT_MIN;
     int maxPathSum(TreeNode* root) {
-        if(root==NULL){
-            return 0;
+        if(!root->left and !root->right){
+            return root->val;
         }
 
-        dfs(root);
+        int max_sum = INT_MIN;
 
+        max_sum = max(max_sum, root->val);
+
+        auto dfs = [&](auto &dfs,TreeNode *node)->int{
+            if(!node) return 0;
+
+            int left_sum = max(0,dfs(dfs,node->left));
+
+            int right_sum = max(0,dfs(dfs, node->right));
+
+            max_sum = max(max_sum, left_sum + right_sum + node->val);
+
+
+            return node->val + max(left_sum, right_sum) ;
+        };
+
+
+        dfs(dfs,root);
 
         return max_sum;
 
-    }
 
-    private:
-    int dfs(TreeNode * root){
-        //Base Case:
-        if(root==NULL){
-            return 0;
-        }
-        
-        int leftSum =max(0,dfs(root->left));
-
-        int rightSum =max(0,dfs(root->right));
-
-        max_sum = max(max_sum, leftSum+rightSum+root->val);
-
-        return max(leftSum,rightSum)+root->val;
     }
 };
