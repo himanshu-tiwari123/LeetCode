@@ -14,27 +14,22 @@ public:
     int longestUnivaluePath(TreeNode* root) {
         int  maxLength = 0;
 
-        auto dfs = [&](auto &dfs,TreeNode *node)->int{
+        auto dfs = [&](auto &dfs,TreeNode *node, int parent)->int{
 
             if(!node) return 0;
 
-            int left = dfs(dfs,node->left);
+            int leftLength = dfs(dfs,node->left,node->val);
 
-            int right = dfs(dfs, node->right);
-
-            int leftLength = 0, rightLength = 0;
-
-            if(node->left and node->left->val == node->val) leftLength = left+1;
-            if(node->right and node->right->val == node->val) rightLength = right+1;
+            int rightLength = dfs(dfs, node->right,node->val);
 
             maxLength = max(maxLength, leftLength + rightLength);
 
 
-            return max(leftLength, rightLength);
+            return node->val == parent ?  1+ max(leftLength,rightLength) : 0;
         };
 
     
-        dfs(dfs,root);
+        dfs(dfs,root,-1);
 
         return maxLength;
     }
