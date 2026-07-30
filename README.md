@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
