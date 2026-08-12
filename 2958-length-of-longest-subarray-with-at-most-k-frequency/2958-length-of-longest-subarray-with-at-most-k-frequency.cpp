@@ -14,9 +14,9 @@ public:
 
             while(mp[nums[r]] > k){
                 mp[nums[l]]--;
-                if(mp[nums[l]] == 0){
-                    mp.erase(mp.find(nums[l]));
-                }
+                // if(mp[nums[l]] == 0){
+                //     mp.erase(mp.find(nums[l]));
+                // }
 
                l++;
             }
