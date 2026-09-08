@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3870-count-commas-in-range](https://github.com/himanshu-tiwari123/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Matrix
 |  |
 | ------- |
