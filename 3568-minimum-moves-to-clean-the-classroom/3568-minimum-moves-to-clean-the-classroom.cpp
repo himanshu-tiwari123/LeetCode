@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool visited[20][20][51][(1<<10)] = {false};
+//   bool visited[20][20][51][(1<<10)] = {};
 
     int minMoves(vector<string>& classroom, int energy) {
         int n = classroom.size() , m = classroom[0].size();
@@ -23,6 +23,7 @@ public:
         };
 
         
+       vector<vector<vector<vector<int>>>>visited(n,vector<vector<vector<int>>>(m,vector<vector<int>>(energy+1, vector<int>(1<<total_litter_cnt, false))));
 
         visited[sx][sy][energy][0] = true;
 
@@ -64,8 +65,6 @@ public:
                         q.push({nx,ny,ne,nm,state.moves+1});
                     }
 
-                    
-                
             }
 
         }
