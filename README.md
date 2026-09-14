@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu-tiwari123/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0679-24-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0679-24-game) |
+| [0836-rectangle-overlap](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1025-divisor-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshu-tiwari123/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2029-stone-game-ix) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/himanshu-tiwari123/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshu-tiwari123/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Hash Function
 |  |
